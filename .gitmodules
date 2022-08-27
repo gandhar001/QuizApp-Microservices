@@ -1,3 +1,15 @@
 [submodule "Quiz_App-QuizService"]
 	path = Quiz_App-QuizService
 	url = https://github.com/gandhar001/Quiz_App-QuizService.git
+[submodule "Quiz_App-Gateway"]
+	path = Quiz_App-Gateway
+	url = https://github.com/gandhar001/Quiz_App-Gateway.git
+[submodule "Quiz_App-QuizUtils"]
+	path = Quiz_App-QuizUtils
+	url = https://github.com/gandhar001/Quiz_App-QuizUtils.git
+[submodule "Quiz_App-QuizResultService"]
+	path = Quiz_App-QuizResultService
+	url = https://github.com/gandhar001/Quiz_App-QuizResultService.git
+[submodule "Quiz_App-ConfigServer"]
+	path = Quiz_App-ConfigServer
+	url = https://github.com/gandhar001/Quiz_App-ConfigServer.git
