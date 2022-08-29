@@ -22,9 +22,9 @@
 [submodule "Quiz_App-DiscoveryServer"]
 	path = Quiz_App-DiscoveryServer
 	url = https://github.com/gandhar001/Quiz_App-DiscoveryServer.git
-[submodule "Quiz_App-Configuration"]
-	path = Quiz_App-Configuration
-	url = https://github.com/gandhar001/Quiz_App-Configuration.git
 [submodule "Quiz_App-DataStore"]
 	path = Quiz_App-DataStore
 	url = https://github.com/gandhar001/Quiz_App-DataStore.git
+[submodule "Quiz_App-Configuration"]
+	path = Quiz_App-Configuration
+	url = https://github.com/gandhar001/Quiz_App-Configuration.git
